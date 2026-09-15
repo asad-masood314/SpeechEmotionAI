@@ -1,6 +1,6 @@
 {
-  "model_path": "C:\\Users\\Hazam\\Desktop\\Code Alpha\\speech-emotion-recognition\\saved_models\\ser_hybrid_20260610_180604.pth",
-  "artifacts_path": "C:\\Users\\Hazam\\Desktop\\Code Alpha\\speech-emotion-recognition\\saved_models\\artifacts_hybrid_20260610_180604.pkl",
+  "model_path": "C:\\Users\\Desktop\\Speech-emotion-recognition\\saved_models\\ser_hybrid_20260610_180604.pth",
+  "artifacts_path": "C:\\Users\\Desktop\\Speech-emotion-recognition\\saved_models\\artifacts_hybrid_20260610_180604.pkl",
   "model_type": "hybrid",
   "input_size": 368,
   "timestamp": "20260610_180604"
